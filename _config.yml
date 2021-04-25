@@ -2,3 +2,4 @@ theme: jekyll-theme-minimal
 title: Marco Barulli
 description: Personal website
 logo: Marco Barulli - bw 500x500 - no background.png
+layouts_dir: /layouts
