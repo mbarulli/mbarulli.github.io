@@ -1,7 +1,3 @@
----
-title: Marco Barulli - Personal website
----
-
 # About me
 
 
