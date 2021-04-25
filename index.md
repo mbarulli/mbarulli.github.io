@@ -32,5 +32,5 @@ StreetLib provides a wide range of solutions for the digital publishing ecosyste
 I’m a convinced urban cyclist. In 2009 along with Antonio Tombolini, I started Ciclourbano.it a website that promotes cycling with a special focus on cargobikes and family bikes. I would love one day to turn this passion into a real business.
 
 
-**What I can do for you**
+**What I can do for you**  
 During these years I learned to drive the conceptual development and implementation of projects from idea to release. Web apps, data security and privacy, Bitcoin, digital publishing, cryptography, cycling, television, … are some of the markets I’ve a decent experience of. I’m also quite good at writing business plans, raising money from investors, hiring smart people, selecting the right business tools, intermediating engineers and sales people, … I also like to evangelize about things I believe in.
