@@ -6,7 +6,7 @@ I love to design and build products that do solve real problems, tools that coul
 ## [Capsule.social](https://capsule.social)
 
 
-## Bernstein.io
+## [Bernstein.io](https://www.bernstein.io)
 Blockchain, intellectual property, privacy and security
 I’m the co-founder of Bernstein, a web application that provides blockchain based solutions for securing and managing intellectual property assets.
 
@@ -14,18 +14,18 @@ Along with Giulio Cesare Solaroli, I envisioned a new kind of web apps built upo
 
 We decided to test this approach on a very sensitive problem: managing and storing passwords! And we built an online password manager that proves you can build a web application that knows nothing about its users and their data: Clipperz.
 
+## [Clipperz.is](https://clipperz.is)
 Clipperz was born out of the idea that people should have complete and exclusive ownership of their data. Web applications are extremely convenient and effective, but this is not a good reason to give up privacy, security and ultimately freedom. Unfortunately today you have no choice, but trust web application providers and hope they act properly.
 
 
 ## Ebooks and digital publishing
 Starting in 2008 I got interested in ebooks and digital publishing. I gained a good understanding of the sector, organized the first Italian barcamp and this landed me a job at Simplicissimus Book Farm that provides both a distribution platform for ebooks and a self-publishing service.
-
 Simplicissimus was founded by Antonio Tombolini, a proven entrepreneur that see further than anybody else I’ve ever met.
 
-Urban cycling
+## Urban cycling
 I’m a convinced urban cyclist. In 2009 along with Antonio Tombolini, I started Ciclourbano.it a website that promotes cycling with a special focus on cargobikes and family bikes. I would love one day to turn it into a real business.
 
-What I’ve been busy with
+## Earlier ...
 I started in 1995 as a researcher in parallel computing and numerical analysis at University of Bologna (Italy) and then at Loughbourough University of Technology (UK). I quickly learned that I had very little to contribute to science and I wasn’t feeling right in the academic environment.
 
 In 1996 I moved to Milan to become the first employees of the Italian branch of MCI Worldcom. It was great to be part of the startup process: from just the country manager and myself to more than 200 people, from a small apartment to brand new offices and a huge data center.
