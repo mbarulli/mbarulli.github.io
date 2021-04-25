@@ -15,7 +15,8 @@ Along with Giulio Cesare Solaroli, I envisioned a new kind of web apps built upo
 We decided to test this approach on a very sensitive problem: managing and storing passwords! And we built an online password manager that proves you can build a web application that knows nothing about its users and their data: Clipperz.
 
 ## Earlier ...
-After my graduation in computer science at University of Bologna (Italy), I started in 1995 as a researcher in parallel computing and numerical analysis, first at my alma mater and then at Loughbourough University (UK). In 1996 I became the first employees of the Italian branch of MCI Worldcom in Milan. It was great to be part of the startup process: from just the country manager and myself to more than 200 people, from a small apartment to brand new offices and a huge data center.
+After my graduation in computer science at University of Bologna (Italy), in 1995 I started as a researcher in parallel computing and numerical analysis, first at my alma mater and then at Loughbourough University (UK).  
+In 1996 I became the first employees of the Italian branch of MCI Worldcom in Milan. It was great to be part of the startup process: from just the country manager and myself to more than 200 people, from a small apartment to brand new offices and a huge data center.
 
 ### Founder at [eXtrapola](https://www.extrapola.com)
 In 1998 I co-founded [eXtrapola](https://www.extrapola.com), an online media monitoring service provider. I’ve been the CEO of eXtrapola for 7 years leading its growth, designing products, raising money, selecting and hiring people, building the engineering team, …
