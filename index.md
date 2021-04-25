@@ -13,18 +13,16 @@ existence, integrity and ownership of any intellectual property asset.
 
 
 ## Earlier ...
-After my graduation in computer science at University of Bologna (Italy), in 1995 I started as a researcher in parallel computing and numerical analysis, first at my alma mater and then at Loughbourough University (UK).  
-In 1996 I became the first employees of the Italian branch of MCI Worldcom in Milan. It was great to be part of the startup process: from just the country manager and myself to more than 200 people, from a small apartment to brand new offices and a huge data center.
+After getting my degree in computer science from the University of Bologna (Italy), in 1995 I started my career as a researcher in parallel computing and numerical analysis, first at my alma mater and then at Loughbourough University (UK).  
+In 1996 I left the academia to become the first employee of the Italian branch of MCI Worldcom in Milan. It was great to be part of the telco boom of the late '90s, from a few people in a small office to a huge data center with hundreds of colleagues.
 
 ### Founder at [eXtrapola](https://www.extrapola.com)
-In 1998 I co-founded [eXtrapola](https://www.extrapola.com), an online media monitoring service provider. I’ve been the CEO of eXtrapola for 7 years leading its growth, designing products, raising money, selecting and hiring people, building the engineering team, …
+In 1998 I co-founded eXtrapola, an online media monitoring service provider. I’ve been the CEO of eXtrapola for 7 years leading its growth, designing products, raising money, selecting and hiring people, building the engineering team, …
 
 ### Founder at [Clipperz.is](https://clipperz.is)
-Clipperz was born out of the idea that people should have complete and exclusive ownership of their data. Web applications are extremely convenient and effective, but this is not a good reason to give up privacy, security and ultimately freedom. Unfortunately today you have no choice, but trust web application providers and hope they act properly.
-Along with Giulio Cesare Solaroli, I envisioned a new kind of web apps built upon a strong Javascript cryptographic engine. Apps that look and behave like regular web apps, but designed to not reveal user data to the server. We dubbed them “zero-knowledge web apps”, other prefer to use the term “host-proof web apps”.
-
+Web applications are extremely convenient and effective, but this is not a good reason to give up privacy, security and ultimately freedom. Unfortunately there are no alternatives, but trust web application providers and hope they act properly.  
+In 2005, pondering on this idea that people should have complete and exclusive ownership of their data, I co-founded Clipperz along with my friend Giulio Cesare Solaroli. We envisioned a new kind of web app, designed to not reveal user data to the server. We dubbed them “zero-knowledge web apps”.  
 We decided to test this approach on a very sensitive problem: managing and storing passwords! And we built an online password manager that proves you can build a web application that knows nothing about its users and their data: Clipperz.
-
 
 ### Ebooks and digital publishing
 Starting in 2008 I got interested in ebooks and digital publishing. I gained a good understanding of the sector, organized the first Italian barcamp and this landed me a job at Simplicissimus Book Farm that provides both a distribution platform for ebooks and a self-publishing service.
