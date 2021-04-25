@@ -21,15 +21,16 @@ In 1998 I co-founded eXtrapola, an online media monitoring service provider. I�
 
 ### Founder at [Clipperz.is](https://clipperz.is)
 Web applications are extremely convenient and effective, but this is not a good reason to give up privacy, security and ultimately freedom. Unfortunately, often there are no alternatives, but trust SaaS providers and hope they act properly.  
-In 2005, based on this realization I co-founded Clipperz along with my friend [Giulio Cesare Solaroli](https://www.linkedin.com/in/gcsolaroli/). We envisioned a new architecture for web apps, designed to give people complete and exclusive ownership of their data. We decided to test this approach on a very sensitive problem: managing and storing passwords. Therefore Clipperz became the first online password manager, the first web application that knows nothing about its users and their data.
+In 2005, based on this realization I co-founded Clipperz along with my friend [Giulio Cesare Solaroli](https://www.linkedin.com/in/gcsolaroli/). We envisioned a new architecture for web apps, designed to give people complete and exclusive ownership of their data.  
+We decided to test this approach, based on client-side cryptograhy, on a very sensitive problem: managing and storing passwords. Therefore Clipperz became the first online password manager, the first web application that knows nothing about its users and their data.
 
 ### Ebooks and digital publishing
-Starting in 2008 I got interested in ebooks and digital publishing. I gained a good understanding of the sector, organized the first Italian barcamp and this landed me a job at Simplicissimus Book Farm that provides both a distribution platform for ebooks and a self-publishing service.
-Simplicissimus was founded by Antonio Tombolini, a proven entrepreneur that see further than anybody else I’ve ever met.
+Starting in 2008, I got interested in ebooks and digital publishing. I gained a good understanding of the sector, co-organized the first Italian barcamp and this landed me a job as CFO and strategist at Simplicissimus Book Farm, now [StreetLib](https://www.streetlib.com/), a company founded by [Antonio Tombolini](https://www.linkedin.com/in/antoniotombolini/), a serial entrepreneur that sees further than anybody else I’ve ever met.  
+StreetLib provides a wide range of solutions for the digital publishing ecosystem: from selfpublishing to print-on-demand. StreetLib is a digital gateway to the international book market that connects authors, publishers, distributors, and retailers on a global scale.
 
-## Urban cycling
-I’m a convinced urban cyclist. In 2009 along with Antonio Tombolini, I started Ciclourbano.it a website that promotes cycling with a special focus on cargobikes and family bikes. I would love one day to turn it into a real business.
+### Urban cycling
+I’m a convinced urban cyclist. In 2009 along with Antonio Tombolini, I started Ciclourbano.it a website that promotes cycling with a special focus on cargobikes and family bikes. I would love one day to turn this passion into a real business.
 
 
-What I can do for you
+**What I can do for you**
 During these years I learned to drive the conceptual development and implementation of projects from idea to release. Web apps, data security and privacy, Bitcoin, digital publishing, cryptography, cycling, television, … are some of the markets I’ve a decent experience of. I’m also quite good at writing business plans, raising money from investors, hiring smart people, selecting the right business tools, intermediating engineers and sales people, … I also like to evangelize about things I believe in.
