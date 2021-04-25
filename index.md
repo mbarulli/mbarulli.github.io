@@ -17,14 +17,13 @@ We decided to test this approach on a very sensitive problem: managing and stori
 ## Earlier ...
 After my graduation in computer science at University of Bologna (Italy), I started in 1995 as a researcher in parallel computing and numerical analysis, first at my alma mater and then at Loughbourough University (UK). In 1996 I became the first employees of the Italian branch of MCI Worldcom in Milan. It was great to be part of the startup process: from just the country manager and myself to more than 200 people, from a small apartment to brand new offices and a huge data center.
 
+### Founder at [eXtrapola](https://www.extrapola.com)
 In 1998 I co-founded [eXtrapola](https://www.extrapola.com), an online media monitoring service provider. I’ve been the CEO of eXtrapola for 7 years leading its growth, designing products, raising money, selecting and hiring people, building the engineering team, …
 
-
-## Founder at [Clipperz.is](https://clipperz.is)
+### Founder at [Clipperz.is](https://clipperz.is)
 Clipperz was born out of the idea that people should have complete and exclusive ownership of their data. Web applications are extremely convenient and effective, but this is not a good reason to give up privacy, security and ultimately freedom. Unfortunately today you have no choice, but trust web application providers and hope they act properly.
 
-
-## Ebooks and digital publishing
+### Ebooks and digital publishing
 Starting in 2008 I got interested in ebooks and digital publishing. I gained a good understanding of the sector, organized the first Italian barcamp and this landed me a job at Simplicissimus Book Farm that provides both a distribution platform for ebooks and a self-publishing service.
 Simplicissimus was founded by Antonio Tombolini, a proven entrepreneur that see further than anybody else I’ve ever met.
 
