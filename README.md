@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Marco Barulli - Personal website
 ---
 
