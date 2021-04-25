@@ -3,10 +3,10 @@
 
 I love to design and build products that do solve real problems, tools that could make life easier and more just for people.
 
-## [Capsule.social](https://capsule.social)
+## COO at [Capsule.social](https://capsule.social)
+Capsule is building a decentralized social media platform resilient against censorship and takedowns, aiming to foster free speech and free journalism. Capsule's founder is [Nadim Kobeissi](https://en.wikipedia.org/wiki/Nadim_Kobeissi). The company received seed funding from prominent investors including Polychain Capital, FYRFLY Venture Partners, Balaji Srinivasan, and Ravikant Capital.
 
-
-## [Bernstein.io](https://www.bernstein.io)
+## Founder at [Bernstein.io](https://www.bernstein.io)
 Blockchain, intellectual property, privacy and security
 I’m the co-founder of Bernstein, a web application that provides blockchain based solutions for securing and managing intellectual property assets.
 
@@ -14,7 +14,7 @@ Along with Giulio Cesare Solaroli, I envisioned a new kind of web apps built upo
 
 We decided to test this approach on a very sensitive problem: managing and storing passwords! And we built an online password manager that proves you can build a web application that knows nothing about its users and their data: Clipperz.
 
-## [Clipperz.is](https://clipperz.is)
+## Founder at [Clipperz.is](https://clipperz.is)
 Clipperz was born out of the idea that people should have complete and exclusive ownership of their data. Web applications are extremely convenient and effective, but this is not a good reason to give up privacy, security and ultimately freedom. Unfortunately today you have no choice, but trust web application providers and hope they act properly.
 
 
