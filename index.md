@@ -14,6 +14,12 @@ Along with Giulio Cesare Solaroli, I envisioned a new kind of web apps built upo
 
 We decided to test this approach on a very sensitive problem: managing and storing passwords! And we built an online password manager that proves you can build a web application that knows nothing about its users and their data: Clipperz.
 
+## Earlier ...
+After my graduation in computer science at University of Bologna (Italy), I started in 1995 as a researcher in parallel computing and numerical analysis, first at my alma mater and then at Loughbourough University (UK). In 1996 I became the first employees of the Italian branch of MCI Worldcom in Milan. It was great to be part of the startup process: from just the country manager and myself to more than 200 people, from a small apartment to brand new offices and a huge data center.
+
+In 1998 I co-founded [eXtrapola](https://www.extrapola.com), an online media monitoring service provider. I’ve been the CEO of eXtrapola for 7 years leading its growth, designing products, raising money, selecting and hiring people, building the engineering team, …
+
+
 ## Founder at [Clipperz.is](https://clipperz.is)
 Clipperz was born out of the idea that people should have complete and exclusive ownership of their data. Web applications are extremely convenient and effective, but this is not a good reason to give up privacy, security and ultimately freedom. Unfortunately today you have no choice, but trust web application providers and hope they act properly.
 
@@ -25,12 +31,6 @@ Simplicissimus was founded by Antonio Tombolini, a proven entrepreneur that see 
 ## Urban cycling
 I’m a convinced urban cyclist. In 2009 along with Antonio Tombolini, I started Ciclourbano.it a website that promotes cycling with a special focus on cargobikes and family bikes. I would love one day to turn it into a real business.
 
-## Earlier ...
-I started in 1995 as a researcher in parallel computing and numerical analysis at University of Bologna (Italy) and then at Loughbourough University of Technology (UK). I quickly learned that I had very little to contribute to science and I wasn’t feeling right in the academic environment.
-
-In 1996 I moved to Milan to become the first employees of the Italian branch of MCI Worldcom. It was great to be part of the startup process: from just the country manager and myself to more than 200 people, from a small apartment to brand new offices and a huge data center.
-
-In 1998 I co-founded eXtrapola, an online media monitoring service provider. I’ve been the CEO of eXtrapola for 7 years leading its growth, designing products, raising money, selecting and hiring people, building the engineering team, … until 2005 when my vision was no longer aligned with other shareholders’ vision.
 
 What I can do for you
 During these years I learned to drive the conceptual development and implementation of projects from idea to release. Web apps, data security and privacy, Bitcoin, digital publishing, cryptography, cycling, television, … are some of the markets I’ve a decent experience of. I’m also quite good at writing business plans, raising money from investors, hiring smart people, selecting the right business tools, intermediating engineers and sales people, … I also like to evangelize about things I believe in.
