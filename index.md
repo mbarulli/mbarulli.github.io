@@ -21,7 +21,7 @@ In 1998 I co-founded eXtrapola, an online media monitoring service provider. Iâ€
 
 ### Founder at [Clipperz.is](https://clipperz.is)
 Web applications are extremely convenient and effective, but this is not a good reason to give up privacy, security and ultimately freedom. Unfortunately, often there are no alternatives, but trust SaaS providers and hope they act properly.  
-In 2005, based on this realization I co-founded Clipperz along with my friend Giulio Cesare Solaroli. We envisioned a new architecture for web apps, designed to give people complete and exclusive ownership of their data. We decided to test this approach on a very sensitive problem: managing and storing passwords. Therefore Clipperz became the first online password manager, the first web application that knows nothing about its users and their data.
+In 2005, based on this realization I co-founded Clipperz along with my friend [Giulio Cesare Solaroli](https://www.linkedin.com/in/gcsolaroli/). We envisioned a new architecture for web apps, designed to give people complete and exclusive ownership of their data. We decided to test this approach on a very sensitive problem: managing and storing passwords. Therefore Clipperz became the first online password manager, the first web application that knows nothing about its users and their data.
 
 ### Ebooks and digital publishing
 Starting in 2008 I got interested in ebooks and digital publishing. I gained a good understanding of the sector, organized the first Italian barcamp and this landed me a job at Simplicissimus Book Farm that provides both a distribution platform for ebooks and a self-publishing service.
