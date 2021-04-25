@@ -3,7 +3,7 @@
 
 I love to design and build products that do solve real problems, tools that could make life easier and more just for people.
 
-## Capsule.social
+## [Capsule.social](https://capsule.social)
 
 
 ## Bernstein.io
