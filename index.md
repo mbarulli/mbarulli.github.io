@@ -1,9 +1,12 @@
 # About me
 
 
-I design and build products that do solve real problems, tools that could make life easier and more just for people.
+I love to design and build products that do solve real problems, tools that could make life easier and more just for people.
 
-## What I’m doing
+## Capsule.social
+
+
+## Bernstein.io
 Blockchain, intellectual property, privacy and security
 I’m the co-founder of Bernstein, a web application that provides blockchain based solutions for securing and managing intellectual property assets.
 
@@ -13,7 +16,8 @@ We decided to test this approach on a very sensitive problem: managing and stori
 
 Clipperz was born out of the idea that people should have complete and exclusive ownership of their data. Web applications are extremely convenient and effective, but this is not a good reason to give up privacy, security and ultimately freedom. Unfortunately today you have no choice, but trust web application providers and hope they act properly.
 
-Ebooks and digital publishing
+
+## Ebooks and digital publishing
 Starting in 2008 I got interested in ebooks and digital publishing. I gained a good understanding of the sector, organized the first Italian barcamp and this landed me a job at Simplicissimus Book Farm that provides both a distribution platform for ebooks and a self-publishing service.
 
 Simplicissimus was founded by Antonio Tombolini, a proven entrepreneur that see further than anybody else I’ve ever met.
