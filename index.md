@@ -1,7 +1,7 @@
 # About me
 
 
-I’ve always wanted to design and build products that do solve real problems, tools that could make life easier and more just for people.
+I design and build products that do solve real problems, tools that could make life easier and more just for people.
 
 ## What I’m doing
 Blockchain, intellectual property, privacy and security
