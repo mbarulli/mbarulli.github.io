@@ -2,13 +2,9 @@
 
 I love to design and build products that do solve real problems, tools that could make life easier and more just for people.
 
-## COO at [Capsule.social](https://capsule.social)
-Capsule is building a decentralized social media platform resilient against censorship and takedowns, aiming to foster free speech and free journalism. Capsule's founder is [Nadim Kobeissi](https://en.wikipedia.org/wiki/Nadim_Kobeissi). The company received seed funding from prominent investors including Polychain Capital, FYRFLY Venture Partners, Balaji Srinivasan, and Ravikant Capital.
-
 ## Founder at [Bernstein.io](https://www.bernstein.io)
-Bernstein is a web application that provides blockchain-based solutions for securing and managing intellectual property assets. Bernstein brings to innovators and creatives the peace of mind of knowing that their IP rights are easy to claim and defend.  
-Individuals, startups, research teams, and large tech companies alike can leverage decentralized technologies, such as the blockchain and IPFS, to globally prove
-existence, integrity and ownership of any intellectual property asset.
+Bernstein is a web application that provides solutions for securing and managing IP. Bernstein brings to innovators and creatives the peace of mind of knowing that their IP rights are easy to claim and defend.  
+Thanks to Bernstein, individuals, startups, research teams, and large tech companies alike can leverage decentralized technologies, such as bitcoin and IPFS, to globally prove existence, integrity and ownership of any intellectual property asset.
 
 ## Earlier ...
 After getting my degree in computer science from the University of Bologna (Italy), in 1995 I started my career as a researcher in parallel computing and numerical analysis, first at my alma mater and then at Loughbourough University (UK).  
@@ -21,6 +17,9 @@ In 1998 I co-founded eXtrapola, an online media monitoring service provider. Iâ€
 Web applications are extremely convenient and effective, but this is not a good reason to give up privacy, security and ultimately freedom. Unfortunately, often there are no alternatives, but trust SaaS providers and hope they act properly.  
 In 2005, based on this realization I co-founded Clipperz along with my friend [Giulio Cesare Solaroli](https://www.linkedin.com/in/gcsolaroli/). We envisioned a new architecture for web apps, designed to give people complete and exclusive ownership of their data.  
 We decided to test this approach, based on client-side cryptograhy, on a very sensitive problem: managing and storing passwords. Therefore Clipperz became the first online password manager, the first web application that knows nothing about its users and their data.
+
+## COO at [Capsule.social](https://capsule.social)
+Capsule is building a decentralized social media platform resilient against censorship and takedowns, aiming to foster free speech and free journalism. Capsule's founder is [Nadim Kobeissi](https://en.wikipedia.org/wiki/Nadim_Kobeissi). The company received seed funding from prominent investors including Polychain Capital, FYRFLY Venture Partners, Balaji Srinivasan, and Ravikant Capital.
 
 ### Ebooks and digital publishing
 Starting in 2008, I got interested in ebooks and digital publishing. I gained a good understanding of the sector, co-organized the first Italian barcamp and this landed me a job as CFO and strategist at Simplicissimus Book Farm, now [StreetLib](https://www.streetlib.com/), a company founded by [Antonio Tombolini](https://www.linkedin.com/in/antoniotombolini/), a serial entrepreneur that sees further than anybody else Iâ€™ve ever met.  
