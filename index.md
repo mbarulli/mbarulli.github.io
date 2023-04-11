@@ -10,8 +10,8 @@ I started Bernstein.io with the ambitious goal of “democratizing IP”. Today 
 In 2021, I joined Capsule Social, Inc. and its founder [Nadim Kobeissi](https://en.wikipedia.org/wiki/Nadim_Kobeissi) where we developed Blogchain, a web3 publishing platform for long-form content. Blogchain leveraged the Near blockchain and the IPFS storage network to provide resistance to censorship and takedowns.
 Capsule attracted investments from prominent VCs and angels, such as Polychain, Naval Ravikant, and Balaji Srinivasan. The 2022 market downturn, however, forced the company to first reduce its workforce and eventually shut down completely.
 
-### From academy to telco
-After getting my degree in computer science from the University of Bologna (Italy), in 1995 I started my career as a researcher in parallel computing and numerical analysis, first at my alma mater and then at Loughborough University (UK). In 1996, I left the academia to become the first employee of the Italian branch of MCI Worldcom in Milan. It was great to be part of the telco boom of the late ’90s, from a few people in a small office to a huge data center with hundreds of colleagues.
+### From academia to telco
+After receiving my degree in computer science from the University of Bologna (Italy), I began working as a researcher in parallel computing and numerical analysis, first at my alma mater and later at Loughborough University (UK). In 1996, I left academia to become the first employee of MCI Worldcom's Italian branch in Milan. It was exciting to be a part of the late-'90s telco boom, from a few people in a small office to a massive data center with hundreds of coworkers.
 
 ### My first startup
 In 1998, I co-founded [eXtrapola](https://www.extrapola.com), an online media monitoring service provider that offered timely, comprehensive and up-to-date reports. A unique press clipping service for the digital age serving a wide range of clients from celebrities to local governments, from sport teams to large consumer companies. I’ve been the CEO of eXtrapola for 7 years, leading its growth and product design.
