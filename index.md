@@ -25,10 +25,10 @@ Clipperz has been running flawlessly since 2006, without a single instance of us
 ### Ebooks and digital publishing
 Starting in 2008, I got interested in ebooks and digital publishing. I gained a good understanding of the sector and co-organized the first Italian barcamp. This landed me a job as CFO and strategist at Simplicissimus Book Farm, now [StreetLib](https://www.streetlib.com/), a company founded by [Antonio Tombolini](https://www.linkedin.com/in/antoniotombolini/), a serial entrepreneur that sees further than anybody else I’ve ever met. StreetLib provides a wide range of solutions for the digital publishing ecosystem: from selfpublishing to print-on-demand.
 
-### Sustainable mobility and Urban cycling
-I’m a convinced urban cyclist. In 2009 along with Antonio Tombolini, I started Ciclourbano.it a website that promotes cycling with a special focus on cargobikes and family bikes. I would love one day to turn this passion into a real business.
+### Sustainable mobility and urban cycling
+I’m a convinced urban cyclist. In 2009 along with Antonio Tombolini, I started Ciclourbano.it, a website that promotes cycling with a special focus on cargobikes and family bikes. I would love one day to turn this passion into a real business.
 
 ----
 
 ## What I can do for you
-Throughout my career, I have gained experience in driving the conceptual development and implementation of projects from ideation to release. Bitcoin, decentralized web apps, data security and privacy, digital publishing, and urban mobility are some of the markets I’ve worked in. I also enjoy writing no-nonsense business plans, raising money from reputable investors, hiring the best talents, selecting the right business tools. I also like to evangelize about things I believe in.
+Throughout my career, I have gained experience in driving the conceptual development and implementation of several projets projects, from ideation to release. Bitcoin, decentralized web apps, data security and privacy, digital publishing, and urban mobility are some of the markets I’ve worked in. I also enjoy writing no-nonsense business plans, raising money from reputable investors, hiring the best talents, selecting the right business tools. I also like to evangelize about things I believe in.
