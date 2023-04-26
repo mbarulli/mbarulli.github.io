@@ -35,7 +35,14 @@
         <p>Nostr NIP-05 identifier: marco.barulli.it <br>
           Zap me here: ⚡mbarulli@getalby.com</p>
         
-        <!-- modify this form HTML and place wherever you want your form -->
+        <!-- Contact Form from Formspree.io -->
+        <script>
+          window.onbeforeunload = () => {
+            for(const form of document.getElementsByTagName('form')) {
+              form.reset();
+            }
+          }
+        </script>
         <form class="view"
           action="https://formspree.io/f/xzbqywlr"
           method="POST"
