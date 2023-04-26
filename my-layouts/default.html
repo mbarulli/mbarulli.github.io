@@ -35,6 +35,22 @@
         <p>Nostr NIP-05 identifier: marco.barulli.it <br>
           Zap me here: ⚡mbarulli@getalby.com</p>
         
+        <!-- modify this form HTML and place wherever you want your form -->
+        <form
+          action="https://formspree.io/f/xzbqywlr"
+          method="POST"
+        >
+          <label>
+            Your email:
+            <input type="email" name="email">
+          </label>
+          <label>
+            Your message:
+            <textarea name="message"></textarea>
+          </label>
+          <!-- your other form fields go here -->
+          <button type="submit">Send</button>
+        </form>
        
         {% if site.show_downloads %}
         <ul class="downloads">
