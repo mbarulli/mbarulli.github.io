@@ -6,7 +6,7 @@ I love to design and build products that do solve real problems, tools that coul
 I was fortunate to discover Bitcoin in 2010, and became a member of the first community of Italian Bitcoin enthusiasts. Subsequently, I decided to make Bitcoin a central part of my professional life and a core component of the technology stack of [Bernstein.io](https://www.bernstein.io/), a company I founded in Munich in 2016 that leverages Bitcoin to prove existence, integrity, and ownership of intellectual property assets.
 I started Bernstein.io with the ambitious goal of “democratizing IP”. Today Bernstein serves tens of clients, ranging from designers to law firms, from research institutions to art galleries.
 
-In 2023, I founded [Bisanz.io](https://bisnz.io), the community of Italian progressives and reformists that aims to promote Bitcoin as an effective tool to reduce inequality and overcome the distortions of the current financial system.
+In 2023, I founded [Bisanz.io](https://bisanz.io), the community of Italian progressives and reformists that aims to promote Bitcoin as an effective tool to reduce inequality and overcome the distortions of the current financial system.
 
 ### Capsule Social and the decentralized web
 In 2021, I joined Capsule Social, Inc. and its founder [Nadim Kobeissi](https://en.wikipedia.org/wiki/Nadim_Kobeissi) where we developed Blogchain, a web3 publishing platform for long-form content. Blogchain leveraged the Near blockchain and the IPFS storage network to provide resistance to censorship and takedowns.
