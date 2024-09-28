@@ -1,6 +1,6 @@
 # Contact me
 
-Entrepreneur and technologist.
+Entrepreneur and technologist.  
 Main areas of expertise: Bitcoin, decentralized technologies, intellectual property, startups, sustainable mobility, education.
 
 You can find me mostly on [Nostr](nostr:npub18nagz6a53yh6d05e8trj487dhvyfhh4qchvsz87jqng4g4zl5tvs825evl).
