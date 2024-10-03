@@ -3,9 +3,9 @@
 Feel free to contact me if I can be of any help.  
 My areas of expertise: Bitcoin, decentralized technologies, intellectual property, startups, sustainable mobility, education.
 
-| ![Nostr icon](https://raw.githubusercontent.com/mbarulli/nostr-logo/refs/heads/main/PNG/nostr-icon-purple-64x64.png)    	|   I'm mostly active on Nostr, reach me there, thanks!  
-test|  
-|  | [Nostr profile on Primal](https://primal.net/p/npub18nagz6a53yh6d05e8trj487dhvyfhh4qchvsz87jqng4g4zl5tvs825evl) |  
+| ![Nostr icon](https://raw.githubusercontent.com/mbarulli/nostr-logo/refs/heads/main/PNG/nostr-icon-purple-64x64.png)    	|   I'm mostly active on Nostr, reach me there, thanks!|    
+|  | npub18nagz6a53yh6d05e8trj487dhvyfhh4qchvsz87jqng4g4zl5tvs825evl |  
+|  | [Primal profile](https://primal.net/p/npub18nagz6a53yh6d05e8trj487dhvyfhh4qchvsz87jqng4g4zl5tvs825evl) |  
 |  | Lightning address: ⚡mbarulli@getalby.com 	|
 
 
