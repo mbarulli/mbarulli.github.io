@@ -5,11 +5,10 @@ My areas of expertise: Bitcoin, decentralized technologies, intellectual propert
 
 | ![Nostr icon](https://raw.githubusercontent.com/mbarulli/nostr-logo/refs/heads/main/PNG/nostr-icon-purple-64x64.png)    	|   I'm mostly active on Nostr, **[reach me there, thanks!](https://primal.net/p/npub18nagz6a53yh6d05e8trj487dhvyfhh4qchvsz87jqng4g4zl5tvs825evl)** |   
 
-Npub: npub18nagz6a53yh6d05e8trj487dhvyfhh4qchvsz87jqng4g4zl5tvs825evl  
-Email: marco@barulli.it  
-Lightning: ⚡mbarulli@getalby.com  
-Web: [marco.barulli.it](https://marco.barulli.it)
+- Email: marco@barulli.it
+- Lightning address: ⚡mbarulli@getalby.com
+- Web: [marco.barulli.it](https://marco.barulli.it)
 
-If you have not yet joined Nostr, you may contact me via [LinkedIn](https://www.linkedin.com/in/mbarulli) or [X](https://www.x.com/mbarulli).
+If you have not yet joined Nostr, email me and I'll be happy to assist.
 
-### Learn more on [marco.barulli.it](https://marco.barulli.it)
+### Learn more about me on [marco.barulli.it](https://marco.barulli.it)
