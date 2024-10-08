@@ -11,4 +11,6 @@ My areas of expertise: Bitcoin, decentralized technologies, intellectual propert
 
 If you have not yet joined Nostr, email me and I'll be happy to assist.
 
+<iframe src="https://formstr.app/#/embedded/484edfe04523341cf4f3a547e88d10d69b17b7dc23135d94fd5b59308ccbbeaf?hideTitleImage=true&hideDescription=true" height="700px" width="480px" frameborder="0" style="border-style:none;box-shadow:0px 0px 2px 2px rgba(0,0,0,0.2);" cellspacing="0" ></iframe>
+
 ### Learn more on [marco.barulli.it](https://marco.barulli.it)
